@@ -1,0 +1,9 @@
+.vs
+<<<<<<< HEAD
+bin
+obj
+=======
+obj
+bin
+Migrations
+>>>>>>> 2b6784ce7622f7ecb45224fbec79b8df55fc6388
