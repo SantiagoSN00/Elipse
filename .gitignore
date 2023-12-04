@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vs
 <<<<<<< HEAD
 bin
@@ -7,3 +8,7 @@ obj
 bin
 Migrations
 >>>>>>> 2b6784ce7622f7ecb45224fbec79b8df55fc6388
+=======
+bin/
+obj/
+>>>>>>> 50fcd9decefa47db444c37ec43301f68abbe8b61

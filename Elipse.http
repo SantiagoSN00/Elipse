@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @Elipse_HostAddress = http://localhost:5015
+=======
+@Elipse_HostAddress = http://localhost:5045
+>>>>>>> 50fcd9decefa47db444c37ec43301f68abbe8b61
 
 GET {{Elipse_HostAddress}}/weatherforecast/
 Accept: application/json
